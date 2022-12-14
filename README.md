@@ -108,61 +108,12 @@ Here are some ideas to get you started:
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
-```text
-From: 06 December 2022 - To: 13 December 2022
-
-PHP               33 hrs 51 mins  ██████████████████████▒░░   88.95 %
-SQL               1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-JSON              40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Bash              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Docker            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Go                18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-```
-
 <!--END_SECTION:waka-->
 
 <br/>
 
 
 ## 🔥 My projects:
-
-- [hexo-blog](https://github.com/pudongping/pudongping.github.io) - 我正在使用的个人博客项目
-- [larablog](https://github.com/pudongping/larablog) - 基于 Laravel6.x 构建的博客应用，支持 Markdown，支持图片拖拽上传，基于 RBAC 权限管理系统
-- [notes](https://github.com/pudongping/notes) - 编程笔记
-- [swoole-learn-demo](https://github.com/pudongping/swoole-learn-demo) - 学习 swoole 时记录的一些 demo
-- [golang-tutorial](https://github.com/pudongping/golang-tutorial) - Go 学习笔记
-- [weather](https://github.com/pudongping/weather) - php composer 天气查询组件
-- [global-pay](https://github.com/pudongping/global-pay) - 简单易用的国际支付宝支付 php composer 插件包，支持花呗分期支付  
-- [global-pay-doc](https://github.com/pudongping/global-pay-doc) - global-pay composer 插件包的中文文档
-- [pudongping](https://github.com/pudongping/pudongping) - 个人简介
-- [goblog](https://github.com/pudongping/goblog) - 使用 go 撸的一个简易 MVC 版本的博客项目
-- [go-im-system](https://github.com/pudongping/go-im-system) - 使用 go 写的一个简易即时通讯系统 
-- [go-chat-room](https://github.com/pudongping/go-chat-room) - 使用 go 写的一个简单聊天室  
-- [gin-blog-service](https://github.com/pudongping/gin-blog-service) - 学习 gin 框架写的一个简易博客项目  
-- [go-grpc-service](https://github.com/pudongping/go-grpc-service) - 学习 grpc 时写的一点儿实验代码
-- [gin-biz-web-api](https://github.com/pudongping/gin-biz-web-api) -   基于 gin 框架封装的业务 web api 脚手架，可直接拿过来上手开发业务逻辑代码
-- [go-tour](https://github.com/pudongping/go-tour) - 使用 Go 编写的一些实用小工具，比如：mysql 数据表结构转结构体、单词转换、时间转换、json 字符串转结构体
-- [go-crypto](https://github.com/pudongping/go-crypto) - 封装的一些 go 相关的加密和解密方法  
-- [golang-consul-grpc-demo](https://github.com/pudongping/golang-consul-grpc-demo) - 基于 Golang 用 consul 做 grpc 的服务注册与发现示例代码
-- [golang-grpc-demo](https://github.com/pudongping/golang-grpc-demo) - 基于 Golang 搭建的 grpc 服务 demo
-- [go-micro-demo](https://github.com/pudongping/go-micro-demo) - 学习 go-micro 时搭建 grpc 客户端和服务端的一个 demo，注册中心为 etcd
-- [hyperf-grpc-demo](https://github.com/pudongping/hyperf-grpc-demo) - 基于 hyperf 框架搭建的 grpc 服务 demo
-- [hyperf-json-rpc-demo](https://github.com/pudongping/hyperf-json-rpc-demo) - 使用 hyperf 框架搭建的 json rpc 服务 demo，服务注册中心使用的 consul
-- [hyperf-json-rpc-demo-interface](https://github.com/pudongping/hyperf-json-rpc-demo-interface) - hyperf-json-rpc-demo 项目的服务接口类，服务消费者和服务提供者会共用的接口
-- [hyperf-biz-web-api](https://github.com/pudongping/hyperf-biz-web-api) - 基于 hyperf 框架封装的业务 web api 框架
-- [php-grpc-demo](https://github.com/pudongping/php-grpc-demo) - 基于 PHP7.4 搭建的 grpc 服务 demo
-- [php-base-container](https://github.com/pudongping/php-base-container) - 一个简易的 php 容器（类似于 Laravel 的服务容器）
-- [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs) - 使用 node.js 封装的一个简易 web 框架
-- [document-converter](https://github.com/pudongping/document-converter) - 使用 python3 写的一个 pdf、word 等格式互转的文档转换工具  
-- [lara-sample-api-5.5](https://github.com/pudongping/lara-sample-api-5.5) - 基于 laravel 5.5 封装的基础方法，以便快速开发符合业务场景 api
-- [lara-sample-api](https://github.com/pudongping/lara-sample-api) - 基于 laravel 6.x 封装的基础方法，以便快速开发符合业务场景 api
-- [lara-official-website](https://github.com/pudongping/lara-official-website) - 基于 laravel 6.x 开发的官网项目接口
-- [php-simple-framework](https://github.com/pudongping/php-simple-framework) - 自己用来练手设计模式封装的一套 php 简易 MVC 框架，支持简单的中间件、DB、ORM 模型等
-
-
----
-
 
 <!-- details start -->
 <details>
