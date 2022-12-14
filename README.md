@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 🛠️ **Languages and Tools:**
 <p>
-    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ac#"><img alt="c#" src="https://img.shields.io/badge/c#-%23777BB4.svg?logo=c#&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ac#"><img alt="c#" src="[https://img.shields.io/badge/c#-%23777BB4.svg?logo=c#&logoColor=white](https://img.shields.io/badge/-c%23-green)"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
